@@ -1,21 +1,60 @@
+/*page headers*/
 .header {
     color: brown;
     font-weight: bold;
     text-align: center;
-    font-size: 200px;
-    text-decoration-line: underline;
-}
-
-.recipes {
     font-size: 100px;
+    text-decoration-line: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*landing page format*/
+.recipes {
+    font-size: 50px;
     color: white;
     background-color:cadetblue;
     text-align: center;
 }
 
+/* list of recipe format*/
 .list {
     margin: 50px;
     text-align: center;
     list-style-position: inside
     
+}
+
+/*format for pics of steaks */
+
+.img {
+    text-align: center;
+}
+
+/*ingredients lists*/
+
+.ingredients, .steps{
+    color: white;
+    background-color:cadetblue;
+    font-size: 20px;
+
+}
+
+/*description format*/
+.desc {
+    font-size: 35px;
+    font-weight: bold;
+    color: cadetblue;
+    text-align: center;
+}
+
+/*description body text*/
+
+.desc-para {
+    font-size: 20px;
+    text-align: center;
+}
+
+/*ingredients header*/
+
+.ingred-header, .steps-header {
+    font-size: 35px;
 }
