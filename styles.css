@@ -1,0 +1,21 @@
+.header {
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-size: 200px;
+    text-decoration-line: underline;
+}
+
+.recipes {
+    font-size: 100px;
+    color: white;
+    background-color:cadetblue;
+    text-align: center;
+}
+
+.list {
+    margin: 50px;
+    text-align: center;
+    list-style-position: inside
+    
+}
